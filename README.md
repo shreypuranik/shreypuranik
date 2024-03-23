@@ -1,11 +1,11 @@
 ### Hey there! Thanks for visiting my personal GitHub profile 👋
 
-- 💻 I'm a software developer that loves radio and audio in general
+- 💻 I'm a software geek that loves radio and audio in general. By day I'm a software developer working in the audio services space.
 - 📻 I volunteer at a charity community radio station in North West London (in a non technical role) 
 - 🌱 I'm currently enjoying new adventures in Typescript, and keen to explore Go
 - 🏋️‍♂️ I try and offset my screen time with gym time
 
-*Please note*: All projects here are non commercial. 
+*Please note*: All projects here are non commercial and things I've built for personal use. 
 
 <!--
 **shreypuranik/shreypuranik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
