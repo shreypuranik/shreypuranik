@@ -2,8 +2,8 @@
 
 - 💻 I'm a software geek that loves radio and audio in general. By day I'm a software developer working in the audio services space.
 - 📻 I volunteer at a charity community radio station in North West London (in a non technical role) 
-- 🌱 I'm currently enjoying new adventures in Typescript, and keen to explore Go
-- 🏋️‍♂️ I try and offset my screen time with gym time
+- 🌱 My stack includes PHP, Go, TypeScript. 
+- 🏋️‍♂️ I try and offset my screen time with gym time and my electro-acoustic guitar.
 
 *Please note*: All projects here are non commercial and things I've built for personal use. 
 
